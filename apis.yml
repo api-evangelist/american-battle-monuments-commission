@@ -1,31 +1,20 @@
 aid: american-battle-monuments-commission
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/american-battle-monuments-commission/refs/heads/main/apis.yml
 name: American Battle Monuments Commission
+tags:
+  - Federal Government
+  - Military
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2024-11-21'
+modified: '2024-12-22'
+position: Consumer
 description: >-
   Established by Congress in 1923, ABMC commemorates the service, achievements,
   and sacrifice of U.S. Armed Forces.
-type: Index
-position: Consumer
-access: 3rd-Party
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-tags:
-  - API
-created: '2024-11-21'
-modified: '2024-11-21'
-url: >-
-  https://raw.githubusercontent.com/api-evangelist/american-battle-monuments-commission/refs/heads/main/apis.yml
-specificationVersion: '0.19'
-apis:
-  - aid: american-battle-monuments-commission:american-battle-monuments-commission
-    name: American Battle Monuments Commission
-    description: >-
-      Established by Congress in 1923, ABMC commemorates the service,
-      achievements, and sacrifice of U.S. Armed Forces.
-    humanURL: https://www.abmc.gov/home
-    tags:
-      - API
-    properties:
-      - type: Documentation
-        url: https://www.abmc.gov/home
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
+specificationVersion: '0.19'
