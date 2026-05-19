@@ -49,6 +49,8 @@ apis:
         url: https://weremember.abmc.gov/
 
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/usabmc
   - type: Website
     url: https://www.abmc.gov/
   - type: Portal
