@@ -49,6 +49,8 @@ apis:
         url: https://weremember.abmc.gov/
 
 common:
+  - type: DomainSecurity
+    url: security/american-battle-monuments-commission-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/usabmc
   - type: Website
