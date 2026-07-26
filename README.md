@@ -17,11 +17,6 @@ The American Battle Monuments Commission (ABMC), established by Congress in 1923
 
 ## APIs
 
-### ABMC We Remember Burial Search
-
-Searchable database of more than 200,000 fallen U.S. service members buried or commemorated at American military cemeteries abroad, including World War II Registry and Korean War Honor Roll.
-
-**Human URL:** [https://weremember.abmc.gov/](https://weremember.abmc.gov/)
 
 #### Tags
 

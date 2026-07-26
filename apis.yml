@@ -10,7 +10,19 @@ description: >-
   ABMC is working on a data roadmap to provide open datasets on data.gov per
   the Foundations for Evidence-based Policymaking Act (2019).
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+    - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/american-battle-monuments-commission.png
 tags:
   - Federal Government
   - Military
@@ -22,32 +34,10 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/american-battle-monuments-commission/refs/heads/main/apis.yml
 access: 3rd-Party
 created: '2024-11-21'
-modified: '2026-04-19'
+modified: '2026-07-25'
 position: Consumer
 specificationVersion: '0.19'
-apis:
-  - aid: american-battle-monuments-commission:we-remember
-    name: ABMC We Remember Burial Search
-    description: >-
-      The ABMC We Remember portal provides a searchable database of more than
-      200,000 fallen U.S. service members buried or commemorated at American
-      military cemeteries abroad. Includes World War II Registry and Korean War
-      Honor Roll records. Searches can be performed by last name and other
-      criteria across ABMC cemeteries and memorials worldwide.
-    humanURL: https://weremember.abmc.gov/
-    baseURL: https://weremember.abmc.gov
-    tags:
-      - Veterans
-      - Military Burials
-      - World War II
-      - Korean War
-      - Memorial
-    properties:
-      - type: Documentation
-        url: https://www.abmc.gov/about-us/reports-policy/data/
-      - type: Portal
-        url: https://weremember.abmc.gov/
-
+apis: []
 common:
   - type: DomainSecurity
     url: security/american-battle-monuments-commission-domain-security.yml
