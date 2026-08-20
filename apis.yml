@@ -24,6 +24,13 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/american-battle-monuments-commission.png
 tags:
+  - Federal-Government
+  - Military
+  - Veterans
+  - World War II
+  - Memorial
+  - Open Data
+tags_raw:
   - Federal Government
   - Military
   - Veterans
