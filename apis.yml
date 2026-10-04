@@ -35,7 +35,7 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/american-battle-monuments-commission.png
 tags:
-  - Federal-Government
+  - Federal Government
   - Military
   - Veterans
   - World War II
@@ -48,6 +48,7 @@ tags_raw:
   - World War II
   - Memorial
   - Open Data
+  - Federal-Government
 url: >-
   https://raw.githubusercontent.com/api-evangelist/american-battle-monuments-commission/refs/heads/main/apis.yml
 access: 3rd-Party
