@@ -1,4 +1,4 @@
-# American Battle Monuments Commission (american-battle-monuments-commission)
+# American Battle Monuments Commission
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,58 +64,97 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-The American Battle Monuments Commission (ABMC), established by Congress in 1923, commemorates the service, achievements, and sacrifice of U.S. Armed Forces. ABMC administers 26 American military cemeteries and 31 memorials abroad and maintains a searchable database of more than 200,000 fallen service members via the We Remember portal.
+The American Battle Monuments Commission (ABMC), established by Congress in 1923, commemorates the service, achievements, and sacrifice of U.S. Armed Forces. ABMC administers and maintains 26 American military cemeteries and 31 memorials, monuments, and markers on foreign soil. The commission maintains a searchable database of more than 200,000 fallen service members buried or commemorated abroad, accessible via the We Remember burial search portal. ABMC is working on a data roadmap to provide open datasets on data.gov per the Foundations for Evidence-based Policymaking Act (2019).
 
-**URL:** [https://www.abmc.gov/](https://www.abmc.gov/)
+**Areas:** Federal Government · Military · Veterans · World War II · Memorial · Open Data
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+## American Battle Monuments Commission on APIs.io
 
-## Tags
+Everything profiled for American Battle Monuments Commission is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/american-battle-monuments-commission/](https://apis.io/providers/american-battle-monuments-commission/)** — or go straight to one of the APIs or properties below.
 
- - Federal Government, Military, Veterans, World War II, Memorial, Open Data
+### Published properties
 
-## Timestamps
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Created:** 2024-11-21
-- **Modified:** 2026-04-19
+#### Security (1)
 
-## APIs
+Authentication, trust centre, and vulnerability disclosure.
 
+- [American Battle Monuments Commission Domain Security](https://apis.io/security/american-battle-monuments-commission/american-battle-monuments-commission-domain-security/)
 
-#### Tags
+#### Plans and pricing (1)
 
- - Veterans, Military Burials, World War II, Korean War, Memorial
+Published plans, tiers and prices.
 
-#### Properties
+- [American Battle Monuments Commission Plans Pricing](https://apis.io/plans/american-battle-monuments-commission/american-battle-monuments-commission-plans-pricing/)
 
-- [Documentation](https://www.abmc.gov/about-us/reports-policy/data/)
-- [Portal](https://weremember.abmc.gov/)
+#### Rate limits (1)
 
-## Common Properties
+Published request limits.
+
+- [American Battle Monuments Commission Rate Limits](https://apis.io/rate-limits/american-battle-monuments-commission/american-battle-monuments-commission-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [American Battle Monuments Commission Finops](https://apis.io/finops/american-battle-monuments-commission/american-battle-monuments-commission-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.abmc.gov/)
-- [Portal](https://weremember.abmc.gov/)
 
-## Features
+## API Evangelist rating
 
-| Name | Description |
-|------|-------------|
-| Burial Search Database | Searchable database of more than 200,000 fallen service members buried or commemorated at ABMC cemeteries abroad. |
-| World War II Registry | Database of U.S. servicemembers who lost their lives during World War II. |
-| Korean War Honor Roll | Registry of U.S. servicemembers who gave their lives during the Korean War. |
-| Cemetery and Memorial Information | Information about 26 American military cemeteries and 31 memorials with virtual tours. |
-| Open Data Roadmap | ABMC is developing a data roadmap to provide open datasets on data.gov per the Evidence-based Policymaking Act (2019). |
+**Kin Score 8.2** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Use Cases
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 7.9 |
 
-| Name | Description |
-|------|-------------|
-| Family Research | Families search for fallen service members to locate burial information and plan cemetery visits. |
-| Historical Research | Historians and educators access burial and memorial records for research. |
-| Memorial Planning | Administrators use cemetery and memorial data for ceremony planning and site maintenance. |
+**Agent readiness 0.6** — human-only
 
-## Maintainers
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-**FN:** Kin Lane
+**Regulatory alignment 5.9** — Government & Public Sector
 
-**Email:** kin@apievangelist.com
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/american-battle-monuments-commission/](https://apis.io/providers/american-battle-monuments-commission/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for American Battle Monuments Commission: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/american-battle-monuments-commission/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
